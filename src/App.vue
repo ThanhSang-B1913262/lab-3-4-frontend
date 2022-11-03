@@ -1,11 +1,3 @@
-<script>
-import AppHeader from "@/components/AppHeader.vue";
-export default {
-  components: {
-    AppHeader,
-  },
-};
-</script>
 <template>
   <div id="app">
     <AppHeader />
@@ -14,9 +6,17 @@ export default {
     </div>
   </div>
 </template>
+<script>
+import AppHeader from "@/components/AppHeader.vue"
+export default {
+  components: { AppHeader }
+};
+</script>
 <style>
 .page {
   max-width: 400px;
   margin: auto;
 }
 </style>
+Footer
+© 2022 GitHub, Inc.
