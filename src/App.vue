@@ -18,5 +18,3 @@ export default {
   margin: auto;
 }
 </style>
-Footer
-© 2022 GitHub, Inc.
